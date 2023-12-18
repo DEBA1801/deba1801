@@ -15,6 +15,7 @@ I'm a passionate full-stack developer with a love for coding and building applic
 - **Tools & Technologies:**
   - Git, GitHub
   - REST APIs
+  - AWS
 
 - **Other:**
   - Responsive Web Design
