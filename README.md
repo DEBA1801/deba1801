@@ -49,6 +49,7 @@ Feel free to explore my repositories for more!
 ## 📫 Let's Connect
 
 - LinkedIn: Debashish Bairagi (https://www.linkedin.com/in/debashish-bairagi-b94923b6/)
+- email: connect@batcode.in
 
 ## 🚀 Looking Forward
 
