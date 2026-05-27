@@ -1,4 +1,5 @@
-![Banner](https://drive.google.com/file/d/17dP2207UXrQhFwj3-RBZbCmDwHctOH91/view?usp=sharing)
+<img width="1584" height="396" alt="debashish_github_banner" src="https://github.com/user-attachments/assets/14877c53-e794-4ec5-9de6-2cc74bc55d1e" />
+
 
 # Debashish Bairagi
 
