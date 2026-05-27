@@ -10,9 +10,6 @@ With 8+ years of professional experience at PC Dreams Group, I specialize in cre
 
 ## 🚀 Current Projects
 
-### SHILI
-Modern AI-powered platform focused on scalable architecture, advanced UI/UX, and intelligent workflows.
-
 ### SheHealy
 Healthcare-focused web application integrating guided patient flows, AI assistance, and modern cloud infrastructure.
 
