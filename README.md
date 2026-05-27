@@ -1,58 +1,97 @@
-# Hello, I'm Debashish Bairagi 👋
+# Debashish Bairagi
 
-I'm a passionate full-stack developer with a love for coding and building applications. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+## Full Stack Developer • AI Integrations • SaaS Builder • Healthcare Tech
 
-## 🔧 Skills
+I build scalable web applications, AI-powered systems, Shopify automations, and healthcare technology platforms.
 
-- **Languages:**
-  - JavaScript (Node.js, React.js)
-  - HTML5, CSS3, SASS/SCSS
-  - PHP
-  
-- **Database:**
-  - MongoDB, MySQL
+With 8+ years of professional experience at PC Dreams Group, I specialize in creating production-ready solutions across web development, cloud infrastructure, automation, and AI integrations.
 
-- **Tools & Technologies:**
-  - Git, GitHub
-  - REST APIs
-  - AWS
+---
 
-- **Other:**
-  - Responsive Web Design
-  - Test-Driven Development (TDD)
-  - Agile methodologies
- 
-- **Content Management Systems:**
-  - WordPress
-  - Shopify
+## 🚀 Current Projects
 
-<!-- 
-## 🌐 Projects
+### SHILI
+Modern AI-powered platform focused on scalable architecture, advanced UI/UX, and intelligent workflows.
 
-Here are some projects that I'm proud of:
+### SheHealy
+Healthcare-focused web application integrating guided patient flows, AI assistance, and modern cloud infrastructure.
 
-1. [Project Name 1](link-to-project-1): Short description of the project.
+### Medical Tourism Platform
+Building a centralized healthcare ecosystem connecting hospitals, doctors, and patients.
 
-2. [Project Name 2](link-to-project-2): Short description of the project.
+### Shopify Automation Systems
+Custom automation tools for translation workflows, store management, and operational efficiency.
 
-3. [Project Name 3](link-to-project-3): Short description of the project.
+---
 
-Feel free to explore my repositories for more!
+## 🛠 Tech Stack
 
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- HTML5 / CSS3 / SCSS
+
+### Backend
+- Node.js
+- PHP
+- REST APIs
+- Supabase
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Cloud & DevOps
+- AWS EC2
+- Nginx
+- Vercel
+- Linux Server Management
+- Multi-site Hosting Architecture
+
+### AI & Automation
+- OpenAI APIs
+- n8n
+- Google Apps Script
+- Twilio
+- Resend
+- Shopify Automation
+
+### CMS & E-Commerce
+- WordPress
+- Shopify
+- WooCommerce
+
+---
+
+## 📌 Areas of Expertise
+
+- Full Stack Web Development
+- SaaS Application Development
+- AI Workflow Integration
+- Healthcare Technology Platforms
+- Shopify & WordPress Development
+- AWS Deployment & Infrastructure
+- API Integrations & Automation
+- Performance Optimization
+
+---
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)](https://github.com/your-username)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEBA1801&show_icons=true&theme=transparent&hide_border=true)
 
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBA1801&layout=compact&theme=transparent&hide_border=true)
 
-## 📫 Let's Connect
+---
 
-- LinkedIn: Debashish Bairagi (https://www.linkedin.com/in/debashish-bairagi-b94923b6/)
-- email: connect@batcode.in
+## 📫 Connect With Me
 
-## 🚀 Looking Forward
+- LinkedIn: https://www.linkedin.com/in/debashish-bairagi-b94923b6/
+- Email: connect@batcode.in
 
-I'm always eager to collaborate on interesting projects and learn new things. If you have any exciting opportunities or just want to say hi, feel free to reach out!
+---
 
-Thanks for stopping by! 😊
+## ⚡ Development Philosophy
+
+I focus on building scalable, clean, and user-centric digital products that solve real-world problems through modern engineering practices and intelligent automation.
